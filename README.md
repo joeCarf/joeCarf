@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joeCarf
 - 👀 I’m interested in frontend and backend
-- 🌱 I’m currently learning react and spring
+- 🌱 I’m currently focus on systems such as distributed system & databases
 - 💞️ I’m looking to collaborate on web application or plugins
 
 <!---
