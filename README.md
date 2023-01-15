@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joeCarf
-- 👀 I’m interested in frontend and backend
+- 👀 I’m interested in software developing
 - 🌱 I’m currently focus on systems such as distributed system & databases
 - 💞️ I’m looking to collaborate on web application or plugins
 
