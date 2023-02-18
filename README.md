@@ -1,4 +1,3 @@
-<p align="center"><img width="80%" alt="Hello, I'm joeCarf. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 ### <div align="center">I'm @joeCarf (Ao Qiao), a graduate student from Wuhan University👨‍💻 Love to contribute to open-source🚀</div>  
   
 
