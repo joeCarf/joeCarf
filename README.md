@@ -4,7 +4,7 @@
 - 🔭 Focusing on systems developing such as distributed system & databases  
   
 
-- 🌱 Contributed to @Rocketmq Community and  @PolardDB-X Community  
+- 🌱 Contributed to @Rocketmq Community, @PolardDB-X Community, @iLogtail Community
   
 
 - ⚡ Use Java most, currently I'm learning golang  
