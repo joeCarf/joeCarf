@@ -7,7 +7,7 @@
 - 🌱 Contributed to @Rocketmq Community, @PolardDB-X Community, @iLogtail Community
   
 
-- ⚡ Use Java most, currently I'm learning golang  
+- ⚡ Use Java most, currently learning golang  
   
 
 - 🤩 Always looking forward to a software developing intern job, please contact me if you are interested.  
