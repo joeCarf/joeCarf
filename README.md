@@ -7,7 +7,7 @@
 - 🌱 Contributed to @Rocketmq Community, @PolardDB-X Community, @iLogtail Community
   
 
-- ⚡ Use Java most, currently learning golang  
+- ⚡ Use Java most, currently learning golang. I have worked as a Back-End Intern at [@Kwai](https://github.com/kwai) and [@DataPipelineInc](https://github.com/DataPipelineInc)
   
 
 - 🤩 Always looking forward to a software developing intern job, please contact me if you are interested.  
