@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.5.0
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
           USERNAME: joeCarf
       - name: Commit & Push
         run: |
