@@ -13,10 +13,11 @@
 - 🤩 Always looking forward to a software developing intern job, please contact me if you are interested.  
   
 
-<br/>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=joeCarf&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
 
 <br/>  
 
 ![3d](./profile-3d-contrib/profile-season-animate.svg)
+
+<br/>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=joeCarf&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
