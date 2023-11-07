@@ -1,4 +1,4 @@
-### <div align="center">I'm @joeCarf (Ao Qiao), a graduate student from Wuhan University👨‍💻 Love to contribute to open-source🚀</div>  
+### <div align="center">I'm @joeCarf (Ao Qiao), a graduate student from Wuhan University👨‍💻, a open-source contributor🚀</div>  
   
 
 - 🔭 Focusing on systems developing such as distributed system & databases  
